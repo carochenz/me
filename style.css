@@ -1,0 +1,13 @@
+body {
+    background: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    position: relative;
+  }
+  
+  html, body {
+     width: 100%;
+     overflow-x: hidden;
+	font-family: 'Roboto' 
+
+  }
